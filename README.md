@@ -1,8 +1,8 @@
-Lista Módulo 02
+Lista 02
 
 🚀 Começando
 
-Este branch contém as respostas da lista de exercício do módulo 02 do (+praTi & Codifica) - 2025 Todo código encontrado nas respostas foi feito em Javascritpt Foi criado um arquivo para responder cada uma das 09 questões. No início de cada arquivo tem o enunciado de cada exercício.
+Este branch contém as respostas da lista de exercício 02 do (+praTi & Codifica) - 2025 Todo código encontrado nas respostas foi feito em Javascritpt Foi criado um arquivo para responder cada uma das 09 questões. No início de cada arquivo tem o enunciado de cada exercício.
 
 📋 Pré-requisitos
 
